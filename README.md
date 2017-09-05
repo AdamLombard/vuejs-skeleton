@@ -1,2 +1,2 @@
 # vuejs-skeleton
-the bare minimum to get a vue.js page started
+I like experimenting with [Vue.js](https://vuejs.org/). This is the set of files I use to get up-and-running instantly.
