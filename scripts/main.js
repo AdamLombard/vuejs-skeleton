@@ -1,5 +1,5 @@
 Vue.component('component-name', {
-  template: "<p> I'm a Vue component!"
+  template: "<p>I'm a Vue component!</p>"
 });
 
 var vm = new Vue({
